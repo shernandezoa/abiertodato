@@ -1,5 +1,4 @@
-# Mapas de Colombia
+# Recursos generales y sus links de descarga
 
-Descargados de https://data.humdata.org/dataset/colombia-administrative-boundaries-levels-0-3
-- departamentos.json
-- municipios.json
+- División departamental de Colombia (json/shp): https://data.humdata.org/dataset/wfp-geonode-colombia-first-level-admin-boundaries
+- División municipal de Colombia (json/shp): https://data.humdata.org/dataset/wfp-geonode-colombia-second-level-admin-boundaries
